@@ -91,19 +91,7 @@ Right now I'm in **Tallinn, Estonia** through the EU-funded **Digital Explorers 
 - Navigating different stacks across different companies (and how to do it without breaking things)
 - The EU Digital Explorers Programme — what it's like moving from Nairobi to Tallinn to build software
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Wambui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanja03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanja03&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=karanja03&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
